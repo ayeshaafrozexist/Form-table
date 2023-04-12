@@ -1,0 +1,49 @@
+
+body{
+	background-color: skyblue;
+}
+
+.wrapper{
+	width: 60%;
+	margin: 0 auto;
+	border: 5px solid #ddd;
+}
+label{
+	font-size: 25px;
+
+}
+.first_name, .last_name, .email, .password, .confirm_password, .date, .gender{
+	width: 90%;
+	height: 25px;
+	padding: 10px;
+	font-size: 18px
+}
+
+.message{
+	font-size: 18px;
+	padding: 10px;
+}
+table{
+	width: 100%;
+	border: 1px solid blue;
+}
+
+th, td{
+	font-size: 20px;
+	text-align: center;
+	border: 1px solid blue;
+}
+
+.caption{
+	font-size: 40px;
+}
+
+.input_search{
+	width: 250px
+	height: 40px;
+}
+	
+
+
+
+
